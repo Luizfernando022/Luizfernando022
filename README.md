@@ -23,7 +23,7 @@
  
 </div>
  
-<div>
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LUIZFERNANDO022&repo=LUIZFERNANDO022&theme=react)](https://github.com/LUIZFERNANDO022/LUIZFERNANDO022)
-  </div>
+
 
