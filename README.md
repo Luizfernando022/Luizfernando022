@@ -1,6 +1,6 @@
 <h1> Hi! My name is Luiz Fernando. </h1>
 
-<div>
+<div style="display:flex;flex-direction:column;flex-wrap:nowrap;">
   <a href="https://github.com/luizfernando022">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luizfernando022&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfernando022&layout=compact&langs_count=7&theme=react" />
