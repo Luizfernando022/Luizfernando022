@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/luiz-fernando-9261a1236/"><i>Luiz Fernando</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web com <a href="https://programadorbr.com/"><i>ProgramadorBR</i></a></p>
+  <p align="center">Estudo Desenvolvimento Web Front-end com <a href="https://programadorbr.com/"><i>ProgramadorBR</i></a></p>
 <br>
 </div>
 <div align="center">
