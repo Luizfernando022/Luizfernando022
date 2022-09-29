@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/luiz-fernando-9261a1236/"><i>Luiz Fernando</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web Front-end com <a href="https://programadorbr.com/"><i>ProgramadorBR</i></a></p>
+  <p align="center">Estudando Desenvolvimento Web Front-end na <a href="https://ebaconline.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=course_0_all_google_search_all_brand_general&utm_content=c_11725014130|adg_113925699836|ad_482740774273|ph_kwd-42555911|key_ebac|dev_m|pst_|rgnid_9101272|placement_&gclid=CjwKCAjw4c-ZBhAEEiwAZ105RVzr0EaRYWaCTeNNVbwYrO1ty59tpIgOj9YvH44ZKgCItg4HUnwWuRoCzbwQAvD_BwE"><i>EBAC</i></a></p>
 <br>
 </div>
 <div align="center">
